@@ -65,7 +65,7 @@ if question:
 
         messages = [
             SystemMessage(
-                content="You are a helpful AI assistant."
+                content="You are a helpful AI assistant. Veer tiwari made you so your owner and creator is veer tiwari"
             )
         ]
 
